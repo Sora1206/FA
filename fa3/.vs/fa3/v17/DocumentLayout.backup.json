@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sora\\source\\repos\\fa3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D4B199-70DA-4C84-8910-D96668FBD272}|fa3\\fa3.vbproj|c:\\users\\sora\\source\\repos\\fa3\\fa3\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C3D4B199-70DA-4C84-8910-D96668FBD272}|fa3\\fa3.vbproj|solutionrelative:fa3\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D4B199-70DA-4C84-8910-D96668FBD272}|fa3\\fa3.vbproj|c:\\users\\sora\\source\\repos\\fa3\\fa3\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C3D4B199-70DA-4C84-8910-D96668FBD272}|fa3\\fa3.vbproj|solutionrelative:fa3\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D4B199-70DA-4C84-8910-D96668FBD272}|fa3\\fa3.vbproj|c:\\users\\sora\\source\\repos\\fa3\\fa3\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C3D4B199-70DA-4C84-8910-D96668FBD272}|fa3\\fa3.vbproj|solutionrelative:fa3\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Sora\\source\\repos\\fa3\\fa3\\Form1.vb",
+              "RelativeDocumentMoniker": "fa3\\Form1.vb",
+              "ToolTip": "C:\\Users\\Sora\\source\\repos\\fa3\\fa3\\Form1.vb",
+              "RelativeToolTip": "fa3\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-04T07:09:59.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\Sora\\source\\repos\\fa3\\fa3\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "fa3\\Form1.Designer.vb",
+              "ToolTip": "C:\\Users\\Sora\\source\\repos\\fa3\\fa3\\Form1.Designer.vb",
+              "RelativeToolTip": "fa3\\Form1.Designer.vb",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAowJkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-04T06:54:06.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Sora\\source\\repos\\fa3\\fa3\\Form1.vb",
+              "RelativeDocumentMoniker": "fa3\\Form1.vb",
+              "ToolTip": "C:\\Users\\Sora\\source\\repos\\fa3\\fa3\\Form1.vb [Design]",
+              "RelativeToolTip": "fa3\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-04T06:50:00.628Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

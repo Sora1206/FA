@@ -1,0 +1,16 @@
+C:\Users\Sora\source\repos\fa1\fa1\bin\Debug\net8.0-windows\fa1.exe
+C:\Users\Sora\source\repos\fa1\fa1\bin\Debug\net8.0-windows\fa1.deps.json
+C:\Users\Sora\source\repos\fa1\fa1\bin\Debug\net8.0-windows\fa1.runtimeconfig.json
+C:\Users\Sora\source\repos\fa1\fa1\bin\Debug\net8.0-windows\fa1.dll
+C:\Users\Sora\source\repos\fa1\fa1\bin\Debug\net8.0-windows\fa1.pdb
+C:\Users\Sora\source\repos\fa1\fa1\obj\Debug\net8.0-windows\fa1.Form1.resources
+C:\Users\Sora\source\repos\fa1\fa1\obj\Debug\net8.0-windows\fa1.vbproj.GenerateResource.cache
+C:\Users\Sora\source\repos\fa1\fa1\obj\Debug\net8.0-windows\fa1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sora\source\repos\fa1\fa1\obj\Debug\net8.0-windows\fa1.AssemblyInfoInputs.cache
+C:\Users\Sora\source\repos\fa1\fa1\obj\Debug\net8.0-windows\fa1.AssemblyInfo.vb
+C:\Users\Sora\source\repos\fa1\fa1\obj\Debug\net8.0-windows\fa1.vbproj.CoreCompileInputs.cache
+C:\Users\Sora\source\repos\fa1\fa1\obj\Debug\net8.0-windows\fa1.dll
+C:\Users\Sora\source\repos\fa1\fa1\obj\Debug\net8.0-windows\refint\fa1.dll
+C:\Users\Sora\source\repos\fa1\fa1\obj\Debug\net8.0-windows\fa1.pdb
+C:\Users\Sora\source\repos\fa1\fa1\obj\Debug\net8.0-windows\fa1.genruntimeconfig.cache
+C:\Users\Sora\source\repos\fa1\fa1\obj\Debug\net8.0-windows\ref\fa1.dll

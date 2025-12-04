@@ -1,0 +1,16 @@
+C:\Users\Sora\source\repos\soalan 1B\soalan 1B\bin\Debug\net8.0-windows\soalan 1B.exe
+C:\Users\Sora\source\repos\soalan 1B\soalan 1B\bin\Debug\net8.0-windows\soalan 1B.deps.json
+C:\Users\Sora\source\repos\soalan 1B\soalan 1B\bin\Debug\net8.0-windows\soalan 1B.runtimeconfig.json
+C:\Users\Sora\source\repos\soalan 1B\soalan 1B\bin\Debug\net8.0-windows\soalan 1B.dll
+C:\Users\Sora\source\repos\soalan 1B\soalan 1B\bin\Debug\net8.0-windows\soalan 1B.pdb
+C:\Users\Sora\source\repos\soalan 1B\soalan 1B\obj\Debug\net8.0-windows\soalan_1B.Form1.resources
+C:\Users\Sora\source\repos\soalan 1B\soalan 1B\obj\Debug\net8.0-windows\soalan 1B.vbproj.GenerateResource.cache
+C:\Users\Sora\source\repos\soalan 1B\soalan 1B\obj\Debug\net8.0-windows\soalan 1B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sora\source\repos\soalan 1B\soalan 1B\obj\Debug\net8.0-windows\soalan 1B.AssemblyInfoInputs.cache
+C:\Users\Sora\source\repos\soalan 1B\soalan 1B\obj\Debug\net8.0-windows\soalan 1B.AssemblyInfo.vb
+C:\Users\Sora\source\repos\soalan 1B\soalan 1B\obj\Debug\net8.0-windows\soalan 1B.vbproj.CoreCompileInputs.cache
+C:\Users\Sora\source\repos\soalan 1B\soalan 1B\obj\Debug\net8.0-windows\soalan 1B.dll
+C:\Users\Sora\source\repos\soalan 1B\soalan 1B\obj\Debug\net8.0-windows\refint\soalan 1B.dll
+C:\Users\Sora\source\repos\soalan 1B\soalan 1B\obj\Debug\net8.0-windows\soalan 1B.pdb
+C:\Users\Sora\source\repos\soalan 1B\soalan 1B\obj\Debug\net8.0-windows\soalan 1B.genruntimeconfig.cache
+C:\Users\Sora\source\repos\soalan 1B\soalan 1B\obj\Debug\net8.0-windows\ref\soalan 1B.dll
